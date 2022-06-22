@@ -2,6 +2,11 @@ Getting started
 
 Welcome, in this readme file you can read everything you need to know about this code. I will share here important information before you can start using all files.
 
+What is loanwebsite
+
+This website was created so that students can borrow products through the website. So basically it is created for schools and other institutions so they can barrow products for students. The website what I have created is very simple and basic, but it is functional.  If you read the name you might already guess what kind of website it is. 
+
+
 Name
 
 The name of my code/product is called loanwebsite. Its just an basic name and it’s just created for educational purpose. So feel free to edit or change my code to use it. 
@@ -12,9 +17,7 @@ V1.0
 
 Description
 
-Like I said up here this code is created for educational purpose. This is also the first time I have uploaded files on github. I have worked on a project for school. For this project I had to create an website in Golang. 
-The website what I have created is very simple and basic, but it is functional.  If you read the name you might already guess what kind of website it is. 
-This website was created so that students can borrow products through the website. So basically it is created for schools and other institutions so they can barrow products for students. 
+Like I said up here this code is created for educational purpose. This is also the first time I have uploaded files on github. I have worked on a project for school. For this project I had to create an website in Golang.  
 
 Note!: The code includes Dutch designation. I will translate it in this readme file.
 
