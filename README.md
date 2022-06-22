@@ -1,11 +1,10 @@
-Getting started
-
-Welcome, in this readme file you can read everything you need to know about this code. I will share here important information before you can start using all files.
-
 What is loanwebsite
 
 This website was created so that students can borrow products through the website. So basically it is created for schools and other institutions so they can barrow products for students. The website what I have created is very simple and basic, but it is functional.  If you read the name you might already guess what kind of website it is. 
 
+Getting started
+
+Welcome, in this readme file you can read everything you need to know about this code. I will share here important information before you can start using all files.
 
 Name
 
